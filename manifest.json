@@ -2,17 +2,17 @@
     "format_version": 2,
     "header": {
         "description": "Fast Better Grass Texture Pack makes every block seamless by wrapping top textures around all sides for Minecraft bedrock.",
-        "name": "§aFast Better Grass - Full Grass §7",
-        "uuid": "9afd47ca-82fb-45dd-adbe-ed33dedf0cd8",
-        "version": [1, 3, 1],
+        "name": "§aFast Better Grass - Full Grass v1.3.2 §7",
+        "uuid": "b003e924-7bb3-4f83-9361-d056c70ee3ce",
+        "version": [1, 3, 2],
         "min_engine_version": [ 1, 16, 0 ]
     },
     "modules": [
         {
             "description": "Created by Honey Studios",
             "type": "resources",
-            "uuid": "0ba70a9d-ae85-4b46-967c-2699ef690a71",
-            "version": [1, 3, 1]
+            "uuid": "f0482fab-8c87-4f53-b14f-6ac0c991c17a",
+            "version": [1, 3, 2]
       }
    ]
 }
